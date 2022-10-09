@@ -5,18 +5,32 @@ This repo holds artifacts from a collection of recent projects. The descriptions
 Please reach out to [matthewdwood82@gmail.com](matthewdwood82@gmail.com) with any questions or requests.
 
 ## DARPA ASIST
-project description
-role
-* paper - https://keep.lib.asu.edu/_flysystem/fedora/2021-12/fss-21_paper_58.pdf
+### Project Description
+DARPA 
+
+
+### Role
+I served as Project Manager for the TA3 Test & Evaluation team, coordinating efforts between Aptima and its partners Arizona State University and Center for Open Science. 
+
+I was also responsible for standing up a reproducible research pipeline for computing evaluation measures and reporting those measures to TA1 AI Developers 
+
+### More Information
+* Freeman, J., Huang, L., Wood, M., & Cauffman, S. (2021, November). [Evaluating Artificial Social Intelligence in an Urban Search and Rescue Task Environment](https://keep.lib.asu.edu/_flysystem/fedora/2021-12/fss-21_paper_58.pdf). _Paper presented at AAAI Fall Symposium Series on Computational Theory of Mind for Human-Machine Teams_, Virtual.
+
 
 ## ARI Skill Retention
-project description
-role
+### Project Description
+
+### Role
+
+### More Information
 * technical report
 * slides
 
 ## Houston Ship Channel
-project descrption
-role
-* technical report
-* slides from INFORMS _several_ years ago if available
+### Project Description
+
+### Role
+
+### More Information
+* paper
