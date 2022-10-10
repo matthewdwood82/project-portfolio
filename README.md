@@ -27,9 +27,9 @@ I served as the Principal Investigator and Project Manager for the project. As P
 
 ### More Information
 A high level overview of the project is contained in these slides developed for a job talk.
-* Wood, M. D. (2021). [Refining a Tool to Measure Individual and Collective Skill Retention](./ari_skill_retention/2021.01.08 TDA JOB TALK MDW.pptx). Job talk.
+* Wood, M. D. (2021). [Refining a Tool to Measure Individual and Collective Skill Retention](https://github.com/matthewdwood82/project-portfolio/blob/main/ari_skill_retention/2021.01.08%20TDA%20JOB%20TALK%20MDW.pptx). Job talk.
 Major deliverables of the project included a decision support software tool written in VBA and Excel, and a User's Guide that walks through the tool and illustrates its major features. The User's Guide is provided below.
-* Wood, M. D., Kay, K., Reynolds, K., Leins, D. A., Flanagan, S., & Vowels, C. L. (2021). [Updates to the Trainers Decision Aid: Developing the Electronic Scoring Tool](./ari_skill_retention/Wood et al. - Updates to the Trainer’s Decision Aid Developing .pdf). Research Product developed for U.S. Army Research Institute for the Behavioral and Social Sciences.
+* Wood, M. D., Kay, K., Reynolds, K., Leins, D. A., Flanagan, S., & Vowels, C. L. (2021). [Updates to the Trainers Decision Aid: Developing the Electronic Scoring Tool](https://github.com/matthewdwood82/project-portfolio/blob/main/ari_skill_retention/Wood%20et%20al.%20-%20Updates%20to%20the%20Trainer%E2%80%99s%20Decision%20Aid%20Developing%20.pdf). Research Product developed for U.S. Army Research Institute for the Behavioral and Social Sciences.
 
 
 
