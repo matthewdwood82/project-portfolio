@@ -15,26 +15,27 @@ I served as lead for implementing evaluation measures and Project Manager for th
 
 ### More Information
 A paper with measure summaries and visualizations I developed for the first of three TA3 studies for which I was involved can be found in the conference paper below.
-* Freeman, J., Huang, L., Wood, M., & Cauffman, S. (2021, November). [Evaluating Artificial Social Intelligence in an Urban Search and Rescue Task Environment](https://keep.lib.asu.edu/_flysystem/fedora/2021-12/fss-21_paper_58.pdf). _Paper presented at AAAI Fall Symposium Series on Computational Theory of Mind for Human-Machine Teams_, Virtual.
+* Freeman, J., Huang, L., Wood, M., & Cauffman, S. (2021, November). [Evaluating Artificial Social Intelligence in an Urban Search and Rescue Task Environment](https://keep.lib.asu.edu/_flysystem/fedora/2021-12/fss-21_paper_58.pdf). _Paper presented at AAAI Fall Symposium Series on Computational Theory of Mind for Human-Machine Teams_, Virtual. 
 
 
 ## ARI Skill Retention
 ### Project Description
-
+Trainer’s Decision Aid is a paper-and-pencil job assessment designed to help military leaders assess individual task demands, work context, and external factors that make skills more difficult to retain in order to identify cognitive interventions (e.g., training, memory aids) to improve retention and enhance performance. Aptima was tasked with calibrating the assessment, and putting it into an electronic format so it is easier for military leaders to use, track results, and perform what-if analysis. The Trainer's Decision Aid - Electronic Scoring Tool (TDA-EST) was developed through a combination of expert elicitation to understand needs of military leaders (specifically combat first aid trainers), empirical collection of training classes to assess retention in the domain, and software engineering and interface design to develop the lightweight TDA-EST.  
 
 ### Role
 I served as the Principal Investigator and Project Manager for the project. As Principal Investigator, I led the technical vision and execution of the project including expert elicitation, statistical analysis, and software development. As Project Manager, I developed budgets and ensured timely delivery of project reports and other status updates. In both roles, I led a team of four staff and one consultant in technical and programmatic execution. I coordinated data collection with the customer and partners, and pivoted the statistical analysis and software development approach when it was clear that COVID-19 was going to disrupt data collection efforts in a way that would make it difficult to calibrate the software decision tool using data by the end of the period of performance. Instead, we developed an approach where the user or follow-on investigators could update model weights and scoring mechanisms with future expert elicitations or data and easily update the software. 
 
 ### More Information
 A high level overview of the project is contained in these slides developed for a job talk.
-* Wood, M. D. (2021). [Refining a Tool to Measure Individual and Collective Skill Retention](https://github.com/matthewdwood82/project-portfolio/blob/main/ari_skill_retention/2021.01.08%20TDA%20JOB%20TALK%20MDW.pptx). Job talk.
-Major deliverables of the project included a decision support software tool written in VBA and Excel, and a User's Guide that walks through the tool and illustrates its major features. The User's Guide is provided below.
-* Wood, M. D., Kay, K., Reynolds, K., Leins, D. A., Flanagan, S., & Vowels, C. L. (2021). [Updates to the Trainers Decision Aid: Developing the Electronic Scoring Tool](https://github.com/matthewdwood82/project-portfolio/blob/main/ari_skill_retention/Wood%20et%20al.%20-%20Updates%20to%20the%20Trainer%E2%80%99s%20Decision%20Aid%20Developing%20.pdf). Research Product developed for U.S. Army Research Institute for the Behavioral and Social Sciences.
+* Wood, M. D. (2021). [Refining a Tool to Measure Individual and Collective Skill Retention](https://github.com/matthewdwood82/project-portfolio/blob/main/ari_skill_retention/2021.01.08%20TDA%20JOB%20TALK%20MDW.pptx). Job talk. 
 
+Major deliverables of the project included a decision support software tool written in VBA and Excel, and a User's Guide that walks through the tool and illustrates its major features. The User's Guide is provided below, which includes a walkthrough of the tool as well as a brief description of some of the expert elicitations used to inform its design.
+* Wood, M. D., Kay, K., Reynolds, K., Leins, D. A., Flanagan, S., & Vowels, C. L. (2021). [Updates to the Trainers Decision Aid: Developing the Electronic Scoring Tool](https://github.com/matthewdwood82/project-portfolio/blob/main/ari_skill_retention/Wood%20et%20al.%20-%20Updates%20to%20the%20Trainer%E2%80%99s%20Decision%20Aid%20Developing%20.pdf). Research Product developed for U.S. Army Research Institute for the Behavioral and Social Sciences. 
 
 
 ## Houston Ship Channel
 ### Project Description
+
 
 ### Role
 
