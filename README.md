@@ -23,7 +23,7 @@ A paper with measure summaries and visualizations I developed for the first of t
 Trainer’s Decision Aid is a paper-and-pencil job assessment designed to help military leaders assess individual task demands, work context, and external factors that make skills more difficult to retain in order to identify cognitive interventions (e.g., training, memory aids) to improve retention and enhance performance. Aptima was tasked with calibrating the assessment, and putting it into an electronic format so it is easier for military leaders to use, track results, and perform what-if analysis. The Trainer's Decision Aid - Electronic Scoring Tool (TDA-EST) was developed through a combination of expert elicitation to understand needs of military leaders (specifically combat first aid trainers), empirical collection of training classes to assess retention in the domain, and software engineering and interface design to develop the lightweight TDA-EST.  
 
 ### Role
-I served as the Principal Investigator and Project Manager for the project. As Principal Investigator, I led the technical vision and execution of the project including expert elicitation, statistical analysis, and software development. As Project Manager, I developed budgets and ensured timely delivery of project reports and other status updates. In both roles, I led a team of four staff and one consultant in technical and programmatic execution. I coordinated data collection with the customer and partners, and pivoted the statistical analysis and software development approach when it was clear that COVID-19 was going to disrupt data collection efforts in a way that would make it difficult to calibrate the software decision tool using data by the end of the period of performance. Instead, we developed an approach where the user or follow-on investigators could update model weights and scoring mechanisms with future expert elicitations or data and easily update the software. 
+I served as the Principal Investigator and Project Manager for the project. As Principal Investigator, I led the technical vision and execution of the project including expert elicitation, statistical analysis, and software development. As Project Manager, I developed budgets and ensured timely delivery of project reports and other status updates. In both roles, I led a team of four staff and one consultant in technical and programmatic execution. I coordinated data collection with the customer and partners, and pivoted the statistical analysis and software development approach when it was clear that COVID-19 was going to disrupt data collection efforts in a way that would make it difficult to calibrate the software decision tool using data by the end of the period of performance. Instead, we developed an approach where the user or follow-on investigators could update model weights and scoring mechanisms with future expert elicitation or data and easily update the software. 
 
 ### More Information
 A high level overview of the project is contained in these slides developed for a job talk.
@@ -35,9 +35,12 @@ Major deliverables of the project included a decision support software tool writ
 
 ## Houston Ship Channel
 ### Project Description
-
+The Houston Ship Channel (HSC) is one of the busiest waterway corridors in the United States. Since the channel’s expansion in 2005 and to the time of the project in 2015, concerns were rising about design deficiencies in the HSC in the area of the Bayport Ship Channel (BSC), especially north of the turn at Five Mile Cut. The project conducted a mental models expert elicitation exercise to identify safety concerns arising from these design deficiencies, and provide qualitative information to structure analysis of techical data to better connect possible design deficiencies to incident outcomes. The elicitation produced an influence diagram to enable later causal reasoning for this reach of the HSC and nearby areas, and helped prime a comprehensive study of the feasibility of safety and performance modifications.
 
 ### Role
+I was responsible for developing and executing the elicitation, and worked with the project lead to synthesize findings and report results.
 
 ### More Information
-* paper
+A paper summarizing the approach and results is here.
+* Wood, M. D., Collier, Z. A., Bridges, T. S., & Russo, E. J. (2018). [Mental Models of Navigation Safety to Inform Risk Management Decisions: Case Study on the Houston Ship Channel](). ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering, 4(3), 05018001. https://doi.org/10.1061/AJRUA6.0000963
+
