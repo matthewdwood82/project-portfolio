@@ -15,7 +15,7 @@ I served as lead for implementing evaluation measures and Project Manager for th
 
 ### More Information
 A paper with measure summaries and visualizations I developed for the first of three TA3 studies for which I was involved can be found in the conference paper below.
-* Freeman, J., Huang, L., Wood, M., & Cauffman, S. (2021, November). [Evaluating Artificial Social Intelligence in an Urban Search and Rescue Task Environment](https://keep.lib.asu.edu/_flysystem/fedora/2021-12/fss-21_paper_58.pdf). _Paper presented at AAAI Fall Symposium Series on Computational Theory of Mind for Human-Machine Teams_, Virtual. 
+* Freeman, J., Huang, L., Wood, M., & Cauffman, S. (2021, November). [Evaluating Artificial Social Intelligence in an Urban Search and Rescue Task Environment](https://github.com/matthewdwood82/project-portfolio/tree/main/darpa_asist). _Paper presented at AAAI Fall Symposium Series on Computational Theory of Mind for Human-Machine Teams_, Virtual. 
 
 
 ## ARI Skill Retention
@@ -42,5 +42,5 @@ I was responsible for developing and executing the elicitation, and worked with 
 
 ### More Information
 A paper summarizing the approach and results is here.
-* Wood, M. D., Collier, Z. A., Bridges, T. S., & Russo, E. J. (2018). [Mental Models of Navigation Safety to Inform Risk Management Decisions: Case Study on the Houston Ship Channel](https://github.com/matthewdwood82/project-portfolio/tree/main/houston_ship_channel). ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering, 4(3), 05018001. https://doi.org/10.1061/AJRUA6.0000963
+* Wood, M. D., Collier, Z. A., Bridges, T. S., & Russo, E. J. (2018). [Mental Models of Navigation Safety to Inform Risk Management Decisions: Case Study on the Houston Ship Channel](https://github.com/matthewdwood82/project-portfolio/tree/main/houston_ship_channel). _ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering, 4_(3), 05018001. https://doi.org/10.1061/AJRUA6.0000963
 
