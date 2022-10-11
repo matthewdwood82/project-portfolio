@@ -2,6 +2,8 @@
 
 This repo holds artifacts from a collection of recent projects. The descriptions below give a high level overview of the project and my role, and a brief description of the contents of each file from the project. A collection of these and other papers and reports can be found in [this Zotero library](https://www.zotero.org/groups/2420929/selected_works).
 
+For a more comprehensive list of project artifacts, see my [Google Scholar profile](https://scholar.google.com/citations?user=XI2vZ6MAAAAJ&hl=en).
+
 Please reach out to [matthewdwood82@gmail.com](matthewdwood82@gmail.com) with any questions or requests.
 
 ## DARPA ASIST
