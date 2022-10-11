@@ -42,5 +42,5 @@ I was responsible for developing and executing the elicitation, and worked with 
 
 ### More Information
 A paper summarizing the approach and results is here.
-* Wood, M. D., Collier, Z. A., Bridges, T. S., & Russo, E. J. (2018). [Mental Models of Navigation Safety to Inform Risk Management Decisions: Case Study on the Houston Ship Channel](). ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering, 4(3), 05018001. https://doi.org/10.1061/AJRUA6.0000963
+* Wood, M. D., Collier, Z. A., Bridges, T. S., & Russo, E. J. (2018). [Mental Models of Navigation Safety to Inform Risk Management Decisions: Case Study on the Houston Ship Channel](https://github.com/matthewdwood82/project-portfolio/tree/main/houston_ship_channel). ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering, 4(3), 05018001. https://doi.org/10.1061/AJRUA6.0000963
 
