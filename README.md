@@ -8,7 +8,7 @@ Please reach out to [matthewdwood82@gmail.com](matthewdwood82@gmail.com) with an
 
 ## DARPA ASIST
 ### Project Description
-The Artificial Social Intelligence for Successful Teams (ASIST) Program aspired to develop Artificial Intelligence that could learn the shared mental models (SMM) of human teammates, and use theory of mind (ToM) to project the actions of those teammates. AI developers (TA1) produced and trained agents with an ability to learn SMM and apply ToM. Social scientists (TA2) performed research on the mechanisms that AI agents might employ to promote interaction with human teammates, and also developed measures which could be used in production to improve the quality of TA1 agent sensing and interactions. A Test and Evaluation (TA3) team from Aptima, with Arizona State University and the Center for Open Science, developed experiments to test the quality of TA1 agents and the veracity of TA2 theories. 
+The DARPA Artificial Social Intelligence for Successful Teams (ASIST) Program aspired to develop Artificial Intelligence that could learn the shared mental models (SMM) of human teammates, and use theory of mind (ToM) to project the actions of those teammates. AI developers (TA1) produced and trained agents with an ability to learn SMM and apply ToM. Social scientists (TA2) performed research on the mechanisms that AI agents might employ to promote interaction with human teammates, and also developed measures which could be used in production to improve the quality of TA1 agent sensing and interactions. A Test and Evaluation (TA3) team from Aptima, with Arizona State University and the Center for Open Science, developed experiments to test the quality of TA1 agents and the veracity of TA2 theories. 
 
 
 ### Role
@@ -16,7 +16,7 @@ I served as lead for implementing evaluation measures and Project Manager for th
 
 
 ### More Information
-A paper with measure summaries and visualizations I developed for the first of three TA3 studies for which I was involved can be found in the conference paper below.
+A paper with measure summaries and visualizations I developed for the second of three TA3 studies for which I was involved can be found in the conference paper below.
 * Freeman, J., Huang, L., Wood, M., & Cauffman, S. (2021, November). [Evaluating Artificial Social Intelligence in an Urban Search and Rescue Task Environment](https://github.com/matthewdwood82/project-portfolio/tree/main/darpa_asist). _Paper presented at AAAI Fall Symposium Series on Computational Theory of Mind for Human-Machine Teams_, Virtual. 
 
 
