@@ -46,3 +46,20 @@ I was responsible for developing and executing the elicitation, and worked with 
 A paper summarizing the approach and results is here.
 * Wood, M. D., Collier, Z. A., Bridges, T. S., & Russo, E. J. (2018). [Mental Models of Navigation Safety to Inform Risk Management Decisions: Case Study on the Houston Ship Channel](https://github.com/matthewdwood82/project-portfolio/tree/main/houston_ship_channel). _ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering, 4_(3), 05018001. https://doi.org/10.1061/AJRUA6.0000963
 
+
+# Code Portfolio
+
+## LTS Bowl Transactions
+Used Github Actions to pull transaction data (trades, waivers, etc.) for a fantasy football redraft league-of-leagues and publish to a Google Sheet. Built in R using [`{ffscrapr}`](https://ffscrapr.ffverse.com/), [`{googlesheets4}`](https://googlesheets4.tidyverse.org/), and the [`{tidyverse}`](https://www.tidyverse.org/). Done with help of [Tan Ho's](https://tanho.ca/) excellent [`rstudio::conf(2022)` talk](https://github.com/tanho63/project_immortality) on Github Actions, and mentorship from the [R4DS Online Learning Community](https://www.rfordatasci.com/). Code available on Github, hope to extend to a website using [Github Pages](https://pages.github.com/) and [`{quarto}`](https://quarto.org/docs/publishing/github-pages.html) for the 2023 season. 
+
+Code available on [GitHub](https://github.com/matthewdwood82/LTS-Bowl-2022-Transactions).
+
+
+## Babynames app - wip
+Webapp written in [`{golem}`](https://engineering-shiny.org/index.html) and intended to visualize data from the Social Security Administration's [Popular Baby Names](https://www.ssa.gov/oact/babynames/limits.html) data. Includes and extends data from the [`{babynames}`](https://github.com/hadley/babynames) dataset. 
+
+Almost-working code available on [Github](https://github.com/matthewdwood82/babynamesapp).
+
+
+## narratetheshowR - wip
+The stub of an idea for a package to help NFL researchers test hypotheses related to "the shower narrative," or the idea that teammates who spent time together on another team earlier in their career will produce chemistry that results in improved on-field coordination and therefore performance. Actively looking for collaborators, longer description available on [Github](https://github.com/matthewdwood82/narratetheshoweR/blob/main/README.md). 
