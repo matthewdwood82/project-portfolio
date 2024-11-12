@@ -6,14 +6,24 @@ For a more comprehensive list of project artifacts, see my [Google Scholar profi
 
 Please reach out to [matthewdwood82@gmail.com](matthewdwood82@gmail.com) with any questions or requests.
 
+
+## MASTR-E
+### Project Description
+A U.S. Army Program which developed a dashboard for estimating soldier cognitive physical and cognitive performance based on data gathered through training exercises and analyzed with a variety of machine learning techniques. More information on the Program is available in this [press release](https://www.armytimes.com/news/your-army/2022/03/31/soldier-performance-study-delivering-data-for-future-commanders/).
+
+### Role
+I developed a semi-automated framework using [`{quarto}`](https://quarto.org/docs/publishing/github-pages.html) to generate documentation for the performance dashboard that included explanations of performance model weights, including an explanation of how weights were developed. These weights and explanations were set to automatically update in the documentation when they were update elsewhere in the dashboard interface.
+
+### More Information
+A recent description of the capabilities developed by MASTR-E, as well as the performance factors assessed, can be found in this [article](https://www.armytimes.com/news/your-army/2023/04/28/army-fielding-new-tactical-feedback-tool-with-fitness-program-features/).
+
+
 ## DARPA ASIST
 ### Project Description
 The DARPA Artificial Social Intelligence for Successful Teams (ASIST) Program aspired to develop Artificial Intelligence that could learn the shared mental models (SMM) of human teammates, and use theory of mind (ToM) to project the actions of those teammates. AI developers (TA1) produced and trained agents with an ability to learn SMM and apply ToM. Social scientists (TA2) performed research on the mechanisms that AI agents might employ to promote interaction with human teammates, and also developed measures which could be used in production to improve the quality of TA1 agent sensing and interactions. A Test and Evaluation (TA3) team from Aptima, with Arizona State University and the Center for Open Science, developed experiments to test the quality of TA1 agents and the veracity of TA2 theories. 
 
-
 ### Role
 I served as lead for implementing evaluation measures and Project Manager for the TA3 team. In the evaluation measure role, I developed a reproducible research pipeline that produced an webpage that TA1 performers could use to see the performance of their agents during TA3 experiments, and provided a model for how TA2 researchers should be developing their analyses in support of their theories. This webpage provided summary tables and visualizations to provide an easy-to-interpret and brief description of both human and AI performance in these studies. As Project Manager, I developed and updated budgets for Aptima and subcontractors in response to changes in program demands and budget in coordination with almost 50 staff members across the three organizations. 
-
 
 ### More Information
 A paper with measure summaries and visualizations I developed for the second of three TA3 studies for which I was involved can be found in the conference paper below.
@@ -48,18 +58,13 @@ A paper summarizing the approach and results is here.
 
 
 # Code Portfolio
+Most of the efforts I work on are proprietary or customer-controlled. Select hobby projects will be made available below.
 
 ## LTS Bowl Transactions
-Used Github Actions to pull transaction data (trades, waivers, etc.) for a fantasy football redraft league-of-leagues and publish to a Google Sheet. Built in R using [`{ffscrapr}`](https://ffscrapr.ffverse.com/), [`{googlesheets4}`](https://googlesheets4.tidyverse.org/), and the [`{tidyverse}`](https://www.tidyverse.org/). Done with help of [Tan Ho's](https://tanho.ca/) excellent [`rstudio::conf(2022)` talk](https://github.com/tanho63/project_immortality) on Github Actions, and mentorship from the [R4DS Online Learning Community](https://www.rfordatasci.com/). Code available on Github, hope to extend to a website using [Github Pages](https://pages.github.com/) and [`{quarto}`](https://quarto.org/docs/publishing/github-pages.html) for the 2023 season. 
+Used Github Actions to pull transaction data (trades, waivers, etc.) for a fantasy football redraft league-of-leagues and publish to a [static site](https://matthewdwood82.github.io/LTS-Bowl-2024/). Built in R using [`{quarto}`](https://quarto.org/docs/publishing/github-pages.html), [`{ffscrapr}`](https://ffscrapr.ffverse.com/), [`{googlesheets4}`](https://googlesheets4.tidyverse.org/), and the [`{tidyverse}`](https://www.tidyverse.org/). Done with help of [Tan Ho's](https://tanho.ca/) excellent [`rstudio::conf(2022)` talk](https://github.com/tanho63/project_immortality) on Github Actions, and mentorship from the [R4DS Online Learning Community](https://www.rfordatasci.com/). 
 
-Code available on [GitHub](https://github.com/matthewdwood82/LTS-Bowl-2022-Transactions).
-
-
-## Babynames app - wip
-Webapp written in [`{golem}`](https://engineering-shiny.org/index.html) and intended to visualize data from the Social Security Administration's [Popular Baby Names](https://www.ssa.gov/oact/babynames/limits.html) data. Includes and extends data from the [`{babynames}`](https://github.com/hadley/babynames) dataset. 
-
-Almost-working code available on [Github](https://github.com/matthewdwood82/babynamesapp).
+Code available on [GitHub](https://github.com/matthewdwood82/LTS-Bowl-2024).
 
 
-## narratetheshowR - wip
-The stub of an idea for a package to help NFL researchers test hypotheses related to "the shower narrative," or the idea that teammates who spent time together on another team earlier in their career will produce chemistry that results in improved on-field coordination and therefore performance. Actively looking for collaborators, longer description available on [Github](https://github.com/matthewdwood82/narratetheshoweR/blob/main/README.md). 
+## Randomizer
+Assorted scripts and artifacts for the [Randomizer](https://youtube.com/playlist?list=PLsaIqi9mL1lLTJl4ALUS6HJaR6Djs0qRz&si=BwNBm2hgmtRnBbQ6), a YouTube show where guests answer trivia questions and perform feats while drafting a best ball team. Scripts largely use [`{nflfastr}`](https://www.nflfastr.com/) and the [`{tidyverse}`](https://www.tidyverse.org/).
