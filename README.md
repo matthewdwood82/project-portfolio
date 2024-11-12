@@ -69,13 +69,9 @@ Used Github Actions to pull transaction data (trades, waivers, etc.) for a fanta
 
 ## Babynames app - wip
 Webapp written in [`{golem}`](https://engineering-shiny.org/index.html) and intended to visualize data from the Social Security Administration's [Popular Baby Names](https://www.ssa.gov/oact/babynames/limits.html) data. Includes and extends data from the [`{babynames}`](https://github.com/hadley/babynames) dataset. 
->>>>>>> 6326c7e72d77a6836830d25c61dc7156c717ddab
 
 Code available on [GitHub](https://github.com/matthewdwood82/LTS-Bowl-2024).
 
 
-<<<<<<< HEAD
 ## Randomizer
 Assorted scripts and artifacts for the [Randomizer](https://youtube.com/playlist?list=PLsaIqi9mL1lLTJl4ALUS6HJaR6Djs0qRz&si=BwNBm2hgmtRnBbQ6), a YouTube show where guests answer trivia questions and perform feats while drafting a best ball team. Scripts largely use [`{nflfastr}`](https://www.nflfastr.com/) and the [`{tidyverse}`](https://www.tidyverse.org/).
-=======
->>>>>>> 6326c7e72d77a6836830d25c61dc7156c717ddab
