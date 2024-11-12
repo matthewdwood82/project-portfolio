@@ -61,10 +61,21 @@ A paper summarizing the approach and results is here.
 Most of the efforts I work on are proprietary or customer-controlled. Select hobby projects will be made available below.
 
 ## LTS Bowl Transactions
+<<<<<<< HEAD
 Used Github Actions to pull transaction data (trades, waivers, etc.) for a fantasy football redraft league-of-leagues and publish to a [static site](https://matthewdwood82.github.io/LTS-Bowl-2024/). Built in R using [`{quarto}`](https://quarto.org/docs/publishing/github-pages.html), [`{ffscrapr}`](https://ffscrapr.ffverse.com/), [`{googlesheets4}`](https://googlesheets4.tidyverse.org/), and the [`{tidyverse}`](https://www.tidyverse.org/). Done with help of [Tan Ho's](https://tanho.ca/) excellent [`rstudio::conf(2022)` talk](https://github.com/tanho63/project_immortality) on Github Actions, and mentorship from the [R4DS Online Learning Community](https://www.rfordatasci.com/). 
+=======
+Used Github Actions to pull transaction data (trades, waivers, etc.) for a fantasy football redraft league-of-leagues and publish to a Quarto Page. Built in R using [`{ffscrapr}`](https://ffscrapr.ffverse.com/), [`{quarto}`](https://quarto.org/), and the [`{tidyverse}`](https://www.tidyverse.org/). Done with help of [Tan Ho's](https://tanho.ca/) excellent [`rstudio::conf(2022)` talk](https://github.com/tanho63/project_immortality) on Github Actions, and mentorship from the [R4DS Online Learning Community](https://www.rfordatasci.com/). Code available on [GitHub](https://github.com/matthewdwood82/LTS-Bowl-2023), site on [Github Pages](https://matthewdwood82.github.io/LTS-Bowl-2023/).
+
+
+## Babynames app - wip
+Webapp written in [`{golem}`](https://engineering-shiny.org/index.html) and intended to visualize data from the Social Security Administration's [Popular Baby Names](https://www.ssa.gov/oact/babynames/limits.html) data. Includes and extends data from the [`{babynames}`](https://github.com/hadley/babynames) dataset. 
+>>>>>>> 6326c7e72d77a6836830d25c61dc7156c717ddab
 
 Code available on [GitHub](https://github.com/matthewdwood82/LTS-Bowl-2024).
 
 
+<<<<<<< HEAD
 ## Randomizer
 Assorted scripts and artifacts for the [Randomizer](https://youtube.com/playlist?list=PLsaIqi9mL1lLTJl4ALUS6HJaR6Djs0qRz&si=BwNBm2hgmtRnBbQ6), a YouTube show where guests answer trivia questions and perform feats while drafting a best ball team. Scripts largely use [`{nflfastr}`](https://www.nflfastr.com/) and the [`{tidyverse}`](https://www.tidyverse.org/).
+=======
+>>>>>>> 6326c7e72d77a6836830d25c61dc7156c717ddab
