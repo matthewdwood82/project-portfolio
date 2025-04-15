@@ -72,4 +72,4 @@ Code available on [GitHub](https://github.com/matthewdwood82/LTS-Bowl-2024).
 
 
 ## Randomizer
-Assorted scripts and artifacts for the [Randomizer](https://youtube.com/playlist?list=PLsaIqi9mL1lLTJl4ALUS6HJaR6Djs0qRz&si=BwNBm2hgmtRnBbQ6), a YouTube show where guests answer trivia questions and perform feats while drafting a best ball team. Scripts largely use [`{nflfastr}`](https://www.nflfastr.com/) and the [`{tidyverse}`](https://www.tidyverse.org/).
+Assorted [scripts and artifacts](https://github.com/matthewdwood82/randomizer) for the [Randomizer](https://youtube.com/playlist?list=PLsaIqi9mL1lLTJl4ALUS6HJaR6Djs0qRz&si=BwNBm2hgmtRnBbQ6), a YouTube show where guests answer trivia questions and perform feats while drafting a best ball team. Scripts largely use [`{nflfastr}`](https://www.nflfastr.com/) and the [`{tidyverse}`](https://www.tidyverse.org/).
